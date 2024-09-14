@@ -26,7 +26,7 @@ By harnessing this data, healthcare providers can address key operational challe
 
 ### Dataset
 
-This project utilizes a Kaggle dataset of patient records from multiple hospitals, highlighting key metrics such as hospital stay duration, billing amounts, insurance providers, and medical conditions. 
+This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) dataset of 55501 patient records from multiple hospitals, highlighting key metrics such as hospital stay duration, billing amounts, insurance providers, and medical conditions. 
 
 ![Pink Minimalist Skincare Brand Comparison Chart Table Graph](https://github.com/user-attachments/assets/fc34944f-7c55-4d34-bced-1568391f0fc8)
 
