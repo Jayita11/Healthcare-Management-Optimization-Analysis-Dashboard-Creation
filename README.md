@@ -37,7 +37,8 @@ This project utilizes a Kaggle dataset of patient records from multiple hospital
 - Patients in the **30-39 age** group contributed the highest total billing (**$208.17M**), followed by those aged **40-49** with **$204.83M**, indicating that middle-aged patients are a key demographic for healthcare spending. This also suggests that individuals in these age groups may be more prone to health issues, necessitating higher healthcare expenditures.
 - Admissions are evenly distributed among **Elective (33.70%)**, **Urgent (33.42%)**, and **Emergency (32.88%)** cases, demonstrating that all patient care types are significant contributors to overall billing.
 
-![Finance Dashboard](https://github.com/user-attachments/assets/ab543d23-8c41-45c8-a0d5-2c25fed833e9)
+![Finance Dashboard](https://github.com/user-attachments/assets/20f74b8e-00dc-4796-9d90-9cc9fba2073a)
+
 
 #### Patient Insight Dashboard
 
