@@ -20,7 +20,7 @@ An interactive Tableau dashboard accompanies this project to provide a dynamic a
 
 Excel was used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights.
 
-The SQL queries regarding various business questions and data preparation for the Tableau dashboard can be found [here](#).
+The SQL queries regarding various business questions and data preparation for the Tableau dashboard can be found [here](https://github.com/Jayita11/Healthcare-Management-Optimization-Analysis-and-Dashboard/tree/main/SQL).
 
 By harnessing this data, healthcare providers can address key operational challenges, reduce costs, and improve the overall quality of patient care.
 
