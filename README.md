@@ -6,6 +6,8 @@ The **Healthcare Management Optimization** project leverages data from 2019 to M
 
 With the rising demand for urgent, elective, and emergency care, hospitals face challenges in optimizing patient stay durations, managing billing practices, and ensuring efficient allocation of resources such as blood supply and medical staff. The dataset used in this project provides a comprehensive view of hospital operations, including patient demographics, hospital stay durations, medical conditions, insurance billing, and doctor performance across various facilities.
 
+![DALL·E 2024-09-14 02 21 20 - A circular hospital-themed graphic in a minimalist style, with icons representing medical elements like a stethoscope, heartbeat symbol, medical cross](https://github.com/user-attachments/assets/720d913a-371c-43b3-aa7c-fed4808a7554)
+
 ### Key insights and recommendations are provided across the following areas:
 
 - **Patient Stay Duration**: Evaluation of patient stay lengths across hospitals, aimed at improving capacity management for both short- and long-term care.
