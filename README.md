@@ -76,6 +76,24 @@ This project utilizes a Kaggle dataset of patient records from multiple hospital
 
 - A stored procedure, **Blood_Matcher**, was created to prioritize matching donors and receivers within the same hospital for faster and more efficient transfusions. For instance, **Bobby Harvey**, a 79-year-old AB+ patient, was successfully matched with multiple O- donors from different hospitals, ensuring a timely and compatible transfusion at **Lester-Rogers hospital**.
 
+## Recommendations:
 
+- With the majority of patients aged **30-49 years** contributing significantly to hospital revenue, **target preventive care initiatives** and resource allocation for this age group to enhance patient outcomes and reduce long-term healthcare costs.
+
+- **Prioritize preventive care** for high-billing conditions like **obesity** and **diabetes**, focusing on early intervention and management to reduce the need for costly treatments later on.
+
+- Despite the balance of **O- universal donors** and **AB+ universal receivers**, **enhance blood bank management** by optimizing cross-hospital donor-matching systems to ensure timely and efficient transfusions during emergencies.
+
+- **Recognize and incentivize top-performing doctors** such as **Michael Smith** and **John Smith**, who generate substantial revenue through high-risk and follow-up patients. Consider offering incentives and expanding their services to increase patient retention and maximize revenue.
+
+- **Investigate the decline in total billing in 2024** and address operational inefficiencies or external factors that may have impacted hospital revenue. Adjust financial strategies for the remainder of the year to help recapture potential lost revenue.
+
+- To manage high medication demand for chronic conditions like **Arthritis**, **Diabetes**, and **Hypertension**, **optimize pharmacy inventory** by ensuring a steady supply of key medications, such as **Aspirin**, **Paracetamol**, and **Lipitor**, while minimizing costs through bulk purchasing or supplier negotiations.
+
+- **Leverage historical data** to optimize bed allocation, balancing resources between short- and long-term stays. This will ensure that hospitals can handle both urgent and elective admissions efficiently without overextending resources.
+
+- **Strengthen relationships with key insurance providers** like **Cigna** and **Medicare** to ensure steady patient admissions and maintain financial stability. Collaborating with these insurers can help streamline billing practices and reduce discrepancies.
+
+- **Maintain an optimal inventory of high-demand medications** like **Aspirin** and **Paracetamol** to ensure consistent pharmaceutical management. Regular audits of inventory can minimize shortages and prevent overstocking, while supplier negotiations can help manage costs.
 
 
