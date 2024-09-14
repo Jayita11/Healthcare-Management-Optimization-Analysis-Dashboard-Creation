@@ -96,4 +96,13 @@ This project utilizes a Kaggle dataset of patient records from multiple hospital
 
 - **Maintain an optimal inventory of high-demand medications** like **Aspirin** and **Paracetamol** to ensure consistent pharmaceutical management. Regular audits of inventory can minimize shortages and prevent overstocking, while supplier negotiations can help manage costs.
 
+## Assumptions and Caveats:
+
+Throughout the analysis, several assumptions were made to address data challenges and ensure the results remained accurate. The following assumptions and caveats are noted below:
+
+- The data analyzed includes records only up until **May 2024**, meaning that trends observed, such as total billing amounts and patient admissions, may change by the end of the year as new data becomes available.
+
+- **Duplicate records** for patient billing were identified and removed to ensure the accuracy of the financial analysis.
+
+- **Negative and positive billing amounts** were categorized into a new column titled "Type of Bill" to differentiate between refunds and normal transactions. Negative amounts were classified as **Refund**, and positive amounts were classified as **Normal**.
 
