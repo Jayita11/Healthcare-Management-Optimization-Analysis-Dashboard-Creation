@@ -56,3 +56,26 @@ This project utilizes a Kaggle dataset of patient records from multiple hospital
 
 ![Hospital   Doctor Dashboard](https://github.com/user-attachments/assets/b43f48d1-dfd3-4bbf-9b60-13af6765ccad)
 
+#### Common Medical Conditions and Medications SQL Analysis 
+
+- Arthritis ranks highest in terms of medication demand, with **9,218 prescriptions** recorded, emphasizing the significant pharmaceutical needs for managing chronic pain.
+  
+- Diabetes and Hypertension follow as the next most common conditions, both requiring consistent medication management to prevent long-term complications. These conditions have a high impact on hospital resources and medication supply.
+
+- Aspirin is the most frequently prescribed medication for multiple conditions such as **Arthritis**, **Asthma**, and **Cancer**, highlighting its importance across treatment categories.
+
+- Paracetamol and Ibuprofen are widely prescribed for pain and inflammation, while Penicillin is commonly used for managing infections in **Obesity** and **Diabetes** patients. Additionally, **Lipitor** is essential for managing chronic diseases like **Diabetes** and **Obesity**, indicating its critical role in long-term treatment plans.
+
+#### Universal Blood Donors and Receivers
+
+- There are **6,804 universal blood donors (O-)**, which are crucial for emergency situations, as O- blood can be safely transfused to any patient. This makes it a vital resource for hospitals, especially during shortages or emergencies.
+
+- **6,882 patients** are classified as universal receivers (AB+), which allows them to receive blood from any donor. This flexibility in transfusion provides hospitals with greater options for managing blood supply during critical times.
+
+- The near-equal distribution of **O- donors** and **AB+ receivers** ensures a balanced potential for blood supply and demand, helping hospitals mitigate shortages and optimize blood bank strategies.
+
+- A stored procedure, **Blood_Matcher**, was created to prioritize matching donors and receivers within the same hospital for faster and more efficient transfusions. For instance, **Bobby Harvey**, a 79-year-old AB+ patient, was successfully matched with multiple O- donors from different hospitals, ensuring a timely and compatible transfusion at **Lester-Rogers hospital**.
+
+
+
+
