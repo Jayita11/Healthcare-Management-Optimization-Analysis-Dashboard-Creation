@@ -14,7 +14,7 @@ With the rising demand for urgent, elective, and emergency care, hospitals face 
 - **Doctor Performance**: Evaluation of doctors based on the number of patients treated and their associated billing, offering insights into workload and revenue contribution.
 - **Medication Trends**: An analysis of the most commonly prescribed medications for various medical conditions, guiding pharmacy inventory management.
 
-An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [[here](https://public.tableau.com/app/profile/jayita.chatterjee/viz/HealthcareSystemDashboard_17261748317700/HospitalDoctorDashboard)](#). 
+An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [here](https://public.tableau.com/app/profile/jayita.chatterjee/viz/HealthcareSystemDashboard_17261748317700/HospitalDoctorDashboard) . 
 
 Excel was used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights.
 
