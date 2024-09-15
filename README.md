@@ -78,6 +78,14 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 
 - A stored procedure, **Blood_Matcher**, was created to prioritize matching donors and receivers within the same hospital for faster and more efficient transfusions. For instance, **Bobby Harvey**, a 79-year-old AB+ patient, was successfully matched with multiple O- donors from different hospitals, ensuring a timely and compatible transfusion at **Lester-Rogers hospital**.
 
+  ![3](https://github.com/user-attachments/assets/fdf9fb75-381f-4c43-a306-1cd896bfd505)
+  ![Screenshot 2024-09-14 at 10 27 22 PM](https://github.com/user-attachments/assets/2c9a6a4d-a774-416b-836e-9b682a2f34f7)
+  ![12](https://github.com/user-attachments/assets/eca5c441-cee4-4df7-89bb-d3f34e89c91d)
+  ![11](https://github.com/user-attachments/assets/37d6ba52-cd36-4d6f-8406-8786400d910e)
+  ![13](https://github.com/user-attachments/assets/13b54c08-dfd2-4462-8c65-9d133f27b300)
+  ![Screenshot 2024-09-14 at 10 28 41 PM](https://github.com/user-attachments/assets/3b114f74-022a-489d-b0e5-eb7dbdc51e47)
+
+
 ## Recommendations:
 
 - With the majority of patients aged **30-49 years** contributing significantly to hospital revenue, **target preventive care initiatives** and resource allocation for this age group to enhance patient outcomes and reduce long-term healthcare costs.
