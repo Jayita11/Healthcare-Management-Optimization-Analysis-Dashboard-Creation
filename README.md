@@ -39,8 +39,7 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 - Patients in the **30-39 age** group contributed the highest total billing (**$208.17M**), followed by those aged **40-49** with **$204.83M**, indicating that middle-aged patients are a key demographic for healthcare spending. This also suggests that individuals in these age groups may be more prone to health issues, necessitating higher healthcare expenditures.
 - Admissions are evenly distributed among **Elective (33.70%)**, **Urgent (33.42%)**, and **Emergency (32.88%)** cases, demonstrating that all patient care types are significant contributors to overall billing.
 
-![Finance Dashboard](https://github.com/user-attachments/assets/20f74b8e-00dc-4796-9d90-9cc9fba2073a)
-
+![Finance Dashboard](https://github.com/user-attachments/assets/874b282a-dd1e-4bcc-9d01-8d6b83bac734)
 
 #### Patient Insight Dashboard
 
@@ -49,7 +48,7 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 - The gender distribution is nearly balanced, with **50.02% male** and **49.98% female** patients, indicating equitable access to healthcare services across genders.
 - Patients aged **50-59 years** and **30-39 years** have the highest admission rates, representing critical age groups for hospital resource planning and patient care management. These groups may require urgent care more frequently, highlighting the need for hospitals to prioritize resource availability for these patients.
 
-![Patient Dashboard](https://github.com/user-attachments/assets/a0c933f1-387f-4a00-8231-086e0f1a9c9e)
+![Patient Dashboard](https://github.com/user-attachments/assets/4b8cc767-aea0-4339-a0f8-381269078094)
 
 #### Hospital & Doctor Dashboard
 
@@ -57,7 +56,7 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 - **Michael Smith** is the top-performing doctor, generating **$201K** in billings for high-risk patients. **John Smith** and **Robert Smith** significantly contribute with **$275K** and **$186K**, respectively. Interestingly, low-risk patients who require discharge and follow-up appointments contribute a substantial portion of the total billing. This suggests that even though these patients are at lower risk, maintaining contact and follow-up with their doctors generates a considerable revenue stream.
 - The average length of stay varies between doctors, with **Jessica Johnson** having the shortest average stay of **19 days** for elective cases, while **William Johnson** averages **26 days**, highlighting differences in case complexity and doctor efficiency. Elective cases tend to have shorter average stays compared to emergency and urgent cases, which underscores the need for hospitals to adopt tailored resource management strategies based on admission type.
 
-![Hospital   Doctor Dashboard](https://github.com/user-attachments/assets/b43f48d1-dfd3-4bbf-9b60-13af6765ccad)
+![Hospital   Doctor Dashboard](https://github.com/user-attachments/assets/47761c76-b9c7-4b98-ade3-aaae9d8902db)
 
 #### Common Medical Conditions and Medications SQL Analysis 
 
