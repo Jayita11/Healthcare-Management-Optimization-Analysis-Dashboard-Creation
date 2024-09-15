@@ -68,6 +68,15 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 
 - Paracetamol and Ibuprofen are widely prescribed for pain and inflammation, while Penicillin is commonly used for managing infections in **Obesity** and **Diabetes** patients. Additionally, **Lipitor** is essential for managing chronic diseases like **Diabetes** and **Obesity**, indicating its critical role in long-term treatment plans.
 
+  ![6](https://github.com/user-attachments/assets/054bc634-0984-4f4a-b06b-5ff57e33bb57)
+  
+  ![Screenshot 2024-09-14 at 10 31 04 PM](https://github.com/user-attachments/assets/5a47977d-2164-439b-a769-685a356271a4)
+  
+  ![7](https://github.com/user-attachments/assets/d3580ca9-fc1c-4d49-bc3d-b9e50d23324c)
+  
+  ![Screenshot 2024-09-14 at 10 31 32 PM](https://github.com/user-attachments/assets/a8c2df9f-c6eb-4cb0-9c48-4a273870157a)
+
+
 #### Universal Blood Donors and Receivers
 
 - There are **6,804 universal blood donors (O-)**, which are crucial for emergency situations, as O- blood can be safely transfused to any patient. This makes it a vital resource for hospitals, especially during shortages or emergencies.
@@ -79,10 +88,15 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 - A stored procedure, **Blood_Matcher**, was created to prioritize matching donors and receivers within the same hospital for faster and more efficient transfusions. For instance, **Bobby Harvey**, a 79-year-old AB+ patient, was successfully matched with multiple O- donors from different hospitals, ensuring a timely and compatible transfusion at **Lester-Rogers hospital**.
 
   ![3](https://github.com/user-attachments/assets/fdf9fb75-381f-4c43-a306-1cd896bfd505)
+  
   ![Screenshot 2024-09-14 at 10 27 22 PM](https://github.com/user-attachments/assets/2c9a6a4d-a774-416b-836e-9b682a2f34f7)
+  
   ![12](https://github.com/user-attachments/assets/eca5c441-cee4-4df7-89bb-d3f34e89c91d)
+  
   ![11](https://github.com/user-attachments/assets/37d6ba52-cd36-4d6f-8406-8786400d910e)
+  
   ![13](https://github.com/user-attachments/assets/13b54c08-dfd2-4462-8c65-9d133f27b300)
+  
   ![Screenshot 2024-09-14 at 10 28 41 PM](https://github.com/user-attachments/assets/3b114f74-022a-489d-b0e5-eb7dbdc51e47)
 
 
