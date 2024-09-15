@@ -70,11 +70,11 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 
   ![6](https://github.com/user-attachments/assets/054bc634-0984-4f4a-b06b-5ff57e33bb57)
   
-  ![Screenshot 2024-09-14 at 10 31 04 PM](https://github.com/user-attachments/assets/5a47977d-2164-439b-a769-685a356271a4)
+      ![Screenshot 2024-09-14 at 10 31 04 PM](https://github.com/user-attachments/assets/5a47977d-2164-439b-a769-685a356271a4)
   
   ![7](https://github.com/user-attachments/assets/d3580ca9-fc1c-4d49-bc3d-b9e50d23324c)
   
-  ![Screenshot 2024-09-14 at 10 31 32 PM](https://github.com/user-attachments/assets/a8c2df9f-c6eb-4cb0-9c48-4a273870157a)
+      ![Screenshot 2024-09-14 at 10 31 32 PM](https://github.com/user-attachments/assets/a8c2df9f-c6eb-4cb0-9c48-4a273870157a)
 
 
 #### Universal Blood Donors and Receivers
