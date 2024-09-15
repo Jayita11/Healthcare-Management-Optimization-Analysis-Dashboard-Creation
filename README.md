@@ -48,7 +48,8 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 - The gender distribution is nearly balanced, with **50.02% male** and **49.98% female** patients, indicating equitable access to healthcare services across genders.
 - Patients aged **50-59 years** and **30-39 years** have the highest admission rates, representing critical age groups for hospital resource planning and patient care management. These groups may require urgent care more frequently, highlighting the need for hospitals to prioritize resource availability for these patients.
 
-![Patient Dashboard](https://github.com/user-attachments/assets/4b8cc767-aea0-4339-a0f8-381269078094)
+![Screenshot 2024-09-15 at 12 57 53 AM](https://github.com/user-attachments/assets/3810e731-86fa-47aa-b172-c87b59c1279d)
+
 
 #### Hospital & Doctor Dashboard
 
