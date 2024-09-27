@@ -18,7 +18,7 @@ With the rising demand for urgent, elective, and emergency care, hospitals face 
 
 An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [here](https://public.tableau.com/app/profile/jayita.chatterjee/viz/HealthcareSystemDashboard_17261748317700/FinanceDashboard?publish=yes) . 
 
-Excel is used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights can be found [here](https://github.com/Jayita11/Healthcare-Management-Optimization-Analysis-and-Dashboard/tree/main/Excel%20Data%20Cleaning).
+Excel is used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights can be found [here](https://github.com/Jayita11/Healthcare-Management-Optimization-Analysis-and-Visualization/tree/main/Excel_Data_Cleaning).
 
 The SQL queries regarding various business questions and data preparation for the Tableau dashboard can be found [here](https://github.com/Jayita11/Healthcare-Management-Optimization-Analysis-and-Dashboard/tree/main/SQL_Query_Analysis).
 
