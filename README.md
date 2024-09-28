@@ -32,6 +32,8 @@ This project utilizes a [Kaggle](https://www.kaggle.com/datasets/prasad22/health
 
 ## Executive Summary
 
+Here the Tableau dashboard is explained in detail, and the SQL business question answers are thoroughly covered.
+
 #### Financial & Insurance Dashboard
 
 - The total billing amount reached **$1.40B** across all hospitals, with significant growth in 2020 before seeing a dip in 2024. However, the data only reflects the numbers up to May 2024, so there is potential for an increase by the end of the year. This downward trend highlights the dynamic nature of healthcare demands and the impact of external factors on revenue, possibly due to operational adjustments post-pandemic.
